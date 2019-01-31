@@ -7,3 +7,5 @@ while making different every time with code. Enlisting the help of Raymond, I cr
 the position of the cropped image, the size of the cropped image, and where it was cropped 
 from the original. Then I pushed each instance of it into an array, and displayed the array while 
 adding transperancy to each image.
+
+https://editor.p5js.org/Shep90/sketches/QcnhLdIjH
